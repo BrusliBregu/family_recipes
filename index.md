@@ -3,6 +3,7 @@
 Set of recipes as given by my grandma.
 
 - Pizza (todo)
-- Pasta (todo)
-- Spreads (todo)
+- Pazta (todo)
+- Spreaas (todo)
+
 
